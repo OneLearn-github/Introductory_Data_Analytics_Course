@@ -7,7 +7,7 @@ from dash.dependencies import Input, Output
 import pandas as pd
 import plotly.express as px
 
-from final_dashboard.prep_data import dashboard_data,genre
+from prep_data import dashboard_data,genre
 
 # Create the Dash app
 app = dash.Dash(__name__)
