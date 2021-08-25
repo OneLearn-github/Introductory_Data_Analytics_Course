@@ -21,7 +21,7 @@ jupyter-core==4.5.0
 MarkupSafe==1.1.1
 nbformat==4.4.0
 numpy==1.16.4
-pandas==0.24.2
+pandas==0.25.3
 plotly==4.1.0
 pytz==2019.1
 six==1.12.0
