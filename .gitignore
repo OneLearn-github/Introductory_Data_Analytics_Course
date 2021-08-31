@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
-
+pandas_basic_concept/Solution_Coding_assignment_pandas_basic_concept.ipynb
 # C extensions
 *.so
 
